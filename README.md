@@ -1,1 +1,1 @@
-problem ze zmienna quoteText przegladarka mowi ze nie jest zdefiniowana. jak na moje oko to jest ona zdefiniowana w 11 linii.
+narazie bez css'a bo mam na chwile obecna malo czasu - kiedys zrobie to samemu :)
